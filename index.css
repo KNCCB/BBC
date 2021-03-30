@@ -22,7 +22,7 @@
 }
 .news-bar{
     background-color: #BB1919;
-    width: 100%;
+    width: 1250px;
     height: 60px;
     color: white;
    
@@ -44,9 +44,10 @@
 }
 .category-bar{
     background-color:#A91717; 
-    width: 100%;
+    width: 1250px;
     height:30px ;
     color:white;
+    
     
 
 }
